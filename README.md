@@ -8,4 +8,4 @@ Course at The Flatiron School.
 
 # Contact
 
-email: jon@flatironschool.com
+email: bblkmn5@gmail.com
